@@ -1,8 +1,8 @@
-package pe.edu.unfv.suma;
+package pe.edu.unfv.operaciones;
 
 public class Suma {
 
-	int suma(int x, int y) {
+	public int suma(int x, int y) {
 		
 		int resultado = x + y;
 		
